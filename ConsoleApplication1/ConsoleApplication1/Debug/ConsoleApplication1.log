@@ -1,0 +1,22 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,5): error C2065: 'string': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,12): error C2146: syntax error: missing ';' before identifier 'input'
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,12): error C2065: 'input': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,5): error C2065: 'Console': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,5): error C2065: 'input': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,13): error C2065: 'Console': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,9): error C2065: 'Double': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,22): error C2065: 'input': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,5): error C2065: 'Console': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,5): error C2065: 'input': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,13): error C2065: 'Console': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,9): error C2065: 'Double': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,22): error C2065: 'input': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,9): error C2146: syntax error: missing ';' before identifier 'Console'
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,9): error C2065: 'Console': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,27): error C2065: '$': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,28): error C2143: syntax error: missing ')' before 'string'
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,28): error C2143: syntax error: missing ';' before 'string'
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,36): error C2059: syntax error: ')'
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,5): error C2065: 'Console': undeclared identifier
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,5): error C2065: 'Console': undeclared identifier
