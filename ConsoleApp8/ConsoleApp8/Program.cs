@@ -10,25 +10,12 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
-            double number1 = int.Parse(Console.ReadLine());
-            double number2 = int.Parse(Console.ReadLine());
-
-            bool number2Correct = false;
-
-            while (!number2Correct)
+            char star = '*';
+            int number = int.Parse(Console.ReadLine());
+            for (int i=1; i <= number; i++)
             {
-                if (number1 < number2)
-
-                { Console.WriteLine("You haven´t guessed, my number is smaller"); }
-
-                else if (number1 > number2)
-
-                { Console.WriteLine("You haven´t guessed, my number is bigger"); }
-                else if (number1 == number2)
-
-                       { Console.WriteLine("You have guessed, my number is same"); }
+                Console.Write(star);
             }
-            Console.WriteLine();
             Console.ReadKey();
         }
     }

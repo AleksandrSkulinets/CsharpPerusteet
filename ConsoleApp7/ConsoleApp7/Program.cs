@@ -10,29 +10,34 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
-
-            bool priceCorrect = false;
-
-            while(!priceCorrect)
+            
+            string EVEN_TEXT = "parillinen";
+            string ODD_TEXT = "pariton";
+            Console.WriteLine("Syötä luku");
+            int number = int.Parse(Console.ReadLine());
+            string input = "";
+            bool inputFalse = true;
+            while (inputFalse)
             {
-                Console.Write("hinta =");
-                int price = int.Parse(Console.ReadLine());
-                if (price <= 100 && price >= 0)
+                Console.Write($"{EVEN_TEXT} / {ODD_TEXT} :");
+                input = Console.ReadLine();
+                if (input == EVEN_TEXT)
                 {
-                    Console.WriteLine($"price with discount= {price - (price * 0.1)}");
+                    inputFalse = false;
                 }
-                else if (price >= 100)
+                else if(input == ODD_TEXT)
                 {
-                    Console.WriteLine($"price with discount= {price - (price * 0.25)}");
-                }
-                else 
-                    { Console.WriteLine("price is wrong");
-                }
-                
-            }
-            Console.WriteLine();
-            Console.ReadKey();
+                    inputFalse = false;
 
+                }
+            }
+            int startingPoint = input == EVEN_TEXT ? 2 : 1;
+            for (int i = startingPoint; i <= number; i += 2)
+            {
+                Console.WriteLine(i);
+            }
+
+            Console.ReadKey();
 
         }
     }

@@ -1,0 +1,6 @@
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

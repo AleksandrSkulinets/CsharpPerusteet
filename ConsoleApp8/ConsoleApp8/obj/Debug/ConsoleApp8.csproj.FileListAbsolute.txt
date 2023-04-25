@@ -1,6 +1,7 @@
-C:\Users\aleksandr.skulinets\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
 C:\Users\aleksandr.skulinets\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
 C:\Users\aleksandr.skulinets\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
 C:\Users\aleksandr.skulinets\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csprojAssemblyReference.cache
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
 C:\Users\aleksandr.skulinets\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
 C:\Users\aleksandr.skulinets\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb

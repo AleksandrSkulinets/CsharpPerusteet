@@ -1,0 +1,6 @@
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\aleksandr.skulinets\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
