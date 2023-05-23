@@ -1,0 +1,6 @@
+C:\Users\aleksandr.skulinets\source\repos\CodeWars_16_5\CodeWars_16_5\obj\Debug\CodeWars_16_5.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.skulinets\source\repos\CodeWars_16_5\CodeWars_16_5\bin\Debug\CodeWars_16_5.exe.config
+C:\Users\aleksandr.skulinets\source\repos\CodeWars_16_5\CodeWars_16_5\bin\Debug\CodeWars_16_5.exe
+C:\Users\aleksandr.skulinets\source\repos\CodeWars_16_5\CodeWars_16_5\bin\Debug\CodeWars_16_5.pdb
+C:\Users\aleksandr.skulinets\source\repos\CodeWars_16_5\CodeWars_16_5\obj\Debug\CodeWars_16_5.exe
+C:\Users\aleksandr.skulinets\source\repos\CodeWars_16_5\CodeWars_16_5\obj\Debug\CodeWars_16_5.pdb

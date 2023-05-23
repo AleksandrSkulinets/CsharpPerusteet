@@ -1,0 +1,7 @@
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe.config
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.pdb
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csprojAssemblyReference.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.pdb

@@ -1,0 +1,7 @@
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csprojAssemblyReference.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb

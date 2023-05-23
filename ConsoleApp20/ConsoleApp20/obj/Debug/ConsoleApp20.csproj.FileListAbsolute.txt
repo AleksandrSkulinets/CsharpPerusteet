@@ -1,0 +1,7 @@
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csprojAssemblyReference.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb

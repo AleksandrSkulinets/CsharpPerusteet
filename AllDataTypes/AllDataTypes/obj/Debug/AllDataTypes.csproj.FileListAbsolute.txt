@@ -1,0 +1,7 @@
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\AllDataTypes\AllDataTypes\obj\Debug\AllDataTypes.csprojAssemblyReference.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\AllDataTypes\AllDataTypes\obj\Debug\AllDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\AllDataTypes\AllDataTypes\bin\Debug\AllDataTypes.exe.config
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\AllDataTypes\AllDataTypes\bin\Debug\AllDataTypes.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\AllDataTypes\AllDataTypes\bin\Debug\AllDataTypes.pdb
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\AllDataTypes\AllDataTypes\obj\Debug\AllDataTypes.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\AllDataTypes\AllDataTypes\obj\Debug\AllDataTypes.pdb

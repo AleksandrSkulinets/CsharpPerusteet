@@ -1,0 +1,14 @@
+C:\Users\aleksandr.skulinets\source\repos\alldatat\alldatat\obj\Debug\alldatat.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.skulinets\source\repos\alldatat\alldatat\bin\Debug\alldatat.exe.config
+C:\Users\aleksandr.skulinets\source\repos\alldatat\alldatat\bin\Debug\alldatat.exe
+C:\Users\aleksandr.skulinets\source\repos\alldatat\alldatat\bin\Debug\alldatat.pdb
+C:\Users\aleksandr.skulinets\source\repos\alldatat\alldatat\obj\Debug\alldatat.exe
+C:\Users\aleksandr.skulinets\source\repos\alldatat\alldatat\obj\Debug\alldatat.pdb
+C:\Users\aleksandr.skulinets\source\repos\alldatat\alldatat\obj\Debug\alldatat.csproj.AssemblyReference.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\allDataTask\alldatat\bin\Debug\alldatat.exe.config
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\allDataTask\alldatat\bin\Debug\alldatat.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\allDataTask\alldatat\bin\Debug\alldatat.pdb
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\allDataTask\alldatat\obj\Debug\alldatat.csprojAssemblyReference.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\allDataTask\alldatat\obj\Debug\alldatat.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\allDataTask\alldatat\obj\Debug\alldatat.exe
+C:\Users\aleksandr.skulinets\source\repos\AleksandrSkulinets\CsharpPerusteet\allDataTask\alldatat\obj\Debug\alldatat.pdb
